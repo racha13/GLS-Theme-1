@@ -8,4 +8,9 @@
   "url": "https://share.gls.cm/P8uDbXrq",
   "download_url": "https://github.com/racha13/GLS-Theme-1/archive/refs/tags/theme.zip",
   "latest_url": "https://github.com/racha13/GLS-Theme-1/ext.json"
+},
+
+"repository": {
+      "type": "git",
+      "url": "https://github.com/racha13/GLS-Theme-1.git"
 }
