@@ -9,5 +9,5 @@
 
 "repository": {
       "type": "git",
-      "url": "https://github.com/racha13/GLS-Theme-1.git"
+      "url": "git://github.com/racha13/GLS-Theme-1.git"
 }
