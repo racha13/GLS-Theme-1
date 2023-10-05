@@ -1,13 +1,11 @@
 {
-  "identifier": "greatlake.gls-light-1",
+ "identifier": "greatlake.gls-light-1",
   "name": "GLS Light 1",
   "content_type": "SN|Theme",
   "area": "editor-editor",
   "version": "0.1.0",
   "description": "A custom theme",
-},
-
-"repository": {
-      "type": "git",
-      "url": "git://github.com/racha13/GLS-Theme-1.git"
+  "url": "https://share.gls.cm/wbu57x1z/download/gls-theme-1.css",
+  "download_url": "https://github.com/racha13/GLS-Theme-1/archive/refs/tags/theme.zip",
+  "latest_url": "https://github.com/racha13/GLS-Theme-1/blob/87ceeb210ce6ad8df2bea574645558f1871cdb23/package.json"
 }
